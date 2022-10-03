@@ -1,0 +1,16 @@
+{
+  "name": "bigpictureloans-vip777",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Money As Soon As The Same Day, if Approved By Noon. It's Easy to Apply. Secure Application",
+  "keywords": [
+    "Bigpictureloans",
+    "Bigpictureloans.com",
+    "Big picture loans"
+  ],
+  "repository": "https://github.com/isntigotcha/bigpictureloans-vip777",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
